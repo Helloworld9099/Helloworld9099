@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+I'm Seraphio, and I'm currently learning java and python. 
+📫 My discord is: seraphio7
+🔭 I make minecraft plugins and mods
+🌱 Currently learning java and python
+👯 Willing to collab on anything that involves using code to modify minecraft is some way
 <!--
 **Helloworld9099/Helloworld9099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
